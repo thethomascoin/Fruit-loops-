@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # FL Studio Web DAW Clone
 
 A production-grade, browser-based **FL Studio DAW replica** built with Next.js 15, Tone.js, Web Audio API, Tailwind CSS, and Stripe monetization. Ready for native Vercel deployment.
@@ -127,3 +128,7 @@ src/
         ├── DspNodes.ts       # Pro FX DSP chain
         └── StemRenderer.ts   # OfflineAudioContext WAV renderer
 ```
+=======
+# Fruit-loops-
+a Daw im working on 
+>>>>>>> 123baafdb67b64804087ac1d96ff598f1b490c63
